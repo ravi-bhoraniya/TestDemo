@@ -1,3 +1,2 @@
 # TestDemo
-Movie is react project \n
-Movieapi is node project
+Movie is react project && Movieapi is node project
